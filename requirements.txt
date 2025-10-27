@@ -1,0 +1,8 @@
+torch>=1.12
+torchvision
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+albumentations
